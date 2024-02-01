@@ -1,3 +1,7 @@
+[![YT](https://i.ytimg.com/vi/1tzLBbe4MM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=1tzLBbe4MM4)
+[https://www.youtube.com/watch?v=1tzLBbe4MM4]()
+
+
 Hoje, mergulharemos no fascinante mundo do Hypertrophy-Specific Training (HST) enquanto desenvolvemos um plano de treinamento personalizado utilizando a poderosa linguagem de programação Python. 🐍
 
 O que é Hypertrophy-Specific Training (HST)?
