@@ -1,3 +1,4 @@
+# pip install numpy pandas PrettyColorPrinter 
 import numpy as np
 import pandas as pd
 from PrettyColorPrinter import add_printer
